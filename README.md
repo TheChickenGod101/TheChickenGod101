@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Home Lab<br>👯 I’m looking to collaborate on some cool projects<br>🌱 I want to learn about Machine Learning<br>⚡ Fun fact I'm fun
+🔭 I’m currently working on Defying Social Norms<br>👯 I’m looking to collaborate on some cool OSINT projects<br>🌱 I want to learn about Machine Learning<br>⚡ Fun fact I'm fun
 
 
 # 💻 Tech Stack:
