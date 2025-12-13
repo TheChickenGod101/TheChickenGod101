@@ -11,3 +11,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TheChickenGod101&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+<3
